@@ -1,0 +1,1 @@
+# amz-ads-mcp-connector
