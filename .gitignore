@@ -1,0 +1,15 @@
+# Never commit real credentials or runtime artifacts
+.env
+.env.local
+config/.env
+*.access_token
+*.log
+proxy.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
