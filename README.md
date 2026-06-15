@@ -7,6 +7,9 @@ never breaks mid-session.
 Each team member runs one setup command, authorizes their own Amazon account, and
 gets a working connection. No coding required.
 
+> 🇻🇳 **Người không rành kỹ thuật?** Đọc bản hướng dẫn từng bước bằng tiếng Việt:
+> [docs/HUONG-DAN-SU-DUNG.md](docs/HUONG-DAN-SU-DUNG.md)
+
 ---
 
 ## How it works
